@@ -1,6 +1,6 @@
 # API do Progresso dos Alunos
 
-Bem-vindo ao repositório da API de Monitoramento de Alunos. Esta API foi desenvolvida com Flask e Flasgger para gerenciar e visualizar o progresso de alunos em cursos, incluindo o tempo gasto por aluno e curso, tempo total por aluno e progresso por curso.
+Bem-vindo ao repositório da API do Progresso dos Aluno. Esta API foi desenvolvida com Flask e Flasgger para gerenciar e visualizar o progresso de alunos em cursos, incluindo o tempo gasto por aluno e curso, tempo total por aluno e progresso por curso.
 
 ## Funcionalidades da API
 
